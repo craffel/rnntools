@@ -1,1 +1,1 @@
-This code now lives at https://github.com/craffel/nntools
+This code now lives at https://github.com/craffel/nntools.
